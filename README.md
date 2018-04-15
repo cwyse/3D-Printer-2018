@@ -51,7 +51,7 @@ The following are a good place to start for beginners but by no means the comple
 * Slic3r (Win/Mac) - [slic3r](http://www.slic3r.org)
 
 #### 1.2 Offline Printing
-* [How to print from SD Card](Files/How_to_off-line print.pdf)
+* [How to print from SD Card](Files/How_to_off-line%20print.pdf)
 
 #### 1.3 Source for 3D Files to Print
 * [Thingiverse](http://www.thingiverse.com)
